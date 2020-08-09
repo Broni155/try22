@@ -1,0 +1,17 @@
+
+
+
+body{
+  background: linear-gradient(to right, #ffb8b8, #67e6dc);
+}
+
+td,th{
+	font-weight: 800;
+	border:1px solid black;
+	text-align: center;
+     padding: 5px;
+	border-radius: 3px;
+	
+}
+th{
+	background-color: #218c74
